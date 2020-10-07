@@ -20,7 +20,7 @@ iGlance is a free and open source macOS System Monitor. It displays current stat
 
 {% include gallery id="layouts_gallery" caption="Example Screenshots of iGlance" %}
 
-[Download](https://github.com/iglance/iGlance/releases/tag/v2.1.0){: .btn .btn--success .btn--large .fab .fa-github}
+[ Download](https://github.com/iglance/iGlance/releases/tag/v2.1.0){: .btn .btn--success .btn--large .fab .fa-github}
 
 ## Features
 
