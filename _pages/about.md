@@ -18,9 +18,9 @@ toc: true
 
 iGlance is a free and open source macOS System Monitor. It displays current stats (such as CPU util, CPU temp, Network usage and much more) about your Mac on the menu bar and is highly customizable. A full list of features is below. If you encounter any bugs or have suggestions for new features, feel free to write them down in the Issues tab.
 
-{% include gallery id="layouts_gallery" caption="Examples of included layouts `splash`, `single`, and `archive`." %}
+{% include gallery id="layouts_gallery" caption="Example Screenshots of iGlance" %}
 
-[Download](https://github.com/iglance/iGlance/releases/tag/v2.1.0){: .btn .btn--success .btn--large}
+[Download](https://github.com/iglance/iGlance/releases/tag/v2.1.0){: .btn .btn--success .btn--large .fab .fa-fw .fa-github}
 
 ## Features
 
