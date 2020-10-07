@@ -1,22 +1,22 @@
 ---
 permalink: /about/
 title: "About"
-excerpt: "Minimal Mistakes is a flexible two-column Jekyll theme."
+excerpt: "iGlance is a free and open source macOS System Monitor"
 layouts_gallery:
-  - url: /assets/images/mm-layout-splash.png
-    image_path: /assets/images/mm-layout-splash.png
-    alt: "splash layout example"
-  - url: /assets/images/mm-layout-single-meta.png
-    image_path: /assets/images/mm-layout-single-meta.png
-    alt: "single layout with comments and related posts"
-  - url: /assets/images/mm-layout-archive.png
-    image_path: /assets/images/mm-layout-archive.png
-    alt: "archive layout example"
+  - url: /assets/images/screenshot1.png
+    image_path: /assets/images/screenshot1.png
+    alt: "Dashboard"
+  - url: /assets/images/screenshot2.png
+    image_path: /assets/images/screenshot2.png
+    alt: "Menu Bar"
+  - url: /assets/images/screenshot3.png
+    image_path: /assets/images/screenshot3.png
+    alt: "Desktop"
 last_modified_at: 2020-05-01T10:15:22-04:00
 toc: true
 ---
 
-Minimal Mistakes is a flexible two-column Jekyll theme. Perfect for hosting your personal site, blog, or portfolio on GitHub or self-hosting on your own server. As the name implies --- styling is purposely minimalistic to be enhanced and customized by you :smile:.
+iGlance is a free and open source macOS System Monitor. It displays current stats (such as CPU util, CPU temp, Network usage and much more) about your Mac on the menu bar and is highly customizable. A full list of features is below. If you encounter any bugs or have suggestions for new features, feel free to write them down in the Issues tab.
 
 {% include gallery id="layouts_gallery" caption="Examples of included layouts `splash`, `single`, and `archive`." %}
 
