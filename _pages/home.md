@@ -19,13 +19,10 @@ feature_row:
     url: "/about/#features"
     btn_class: "btn--primary"
     btn_label: "All Features"
-  - image_path: /assets/images/mm-responsive-feature.png
+  - image_path: /assets/images/slick.png
     alt: "fully responsive"
     title: "Slick Design 😎"
     excerpt: "Enjoy our recently updated icons with a more modern and smooth look."
-    url: "/assets/images/slick.png"
-    btn_class: "btn--primary"
-    btn_label: "Learn more"
   - image_path: /assets/images/mm-free-feature.png
     alt: "free and open source"
     title: "Free & Open Source 👨‍👩‍👧‍👦💪"
