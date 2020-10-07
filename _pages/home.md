@@ -6,11 +6,11 @@ header:
   overlay_color: "#5e616c"
   overlay_image: /assets/images/mm-home-page-feature.jpg
   actions:
-    - label: "<i class='fas fa-download'></i> Install now"
-      url: "/docs/quick-start-guide/"
+    - label: "<i class='fas fa-download'></i> Download now"
+      url: "https://github.com/iglance/iGlance/releases/download/v2.1.0/iGlance_v2.1.0.zip"
 excerpt: >
-  A flexible two-column Jekyll theme. Perfect for building personal sites, blogs, and portfolios.<br />
-  <small><a href="https://github.com/mmistakes/minimal-mistakes/releases/tag/4.20.2">Latest release v4.20.2</a></small>
+  Free & open source macOS System Monitor. See all system information at a glance. <br />
+  <small><a href="https://github.com/iglance/iGlance/releases/download/v2.1.0/iGlance_v2.1.0.zip">Latest release v2.1.0</a></small>
 feature_row:
   - image_path: /assets/images/mm-customizable-feature.png
     alt: "customizable"
