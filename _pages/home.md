@@ -4,7 +4,7 @@ permalink: /
 hidden: true
 header:
   overlay_color: "#5e616c"
-  overlay_image: /assets/images/mm-home-page-feature.jpg
+  overlay_image: /assets/images/background-home.jpg
   actions:
     - label: "<i class='fas fa-download'></i> Download now"
       url: "https://github.com/iglance/iGlance/releases/download/v2.1.0/iGlance_v2.1.0.zip"
