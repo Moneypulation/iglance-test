@@ -14,25 +14,25 @@ excerpt: >
 feature_row:
   - image_path: /assets/images/mm-customizable-feature.png
     alt: "customizable"
-    title: "Super customizable"
-    excerpt: "Everything from the menus, sidebars, comments, and more can be configured or set with YAML Front Matter."
-    url: "/docs/configuration/"
+    title: "Super customizable 🛠"
+    excerpt: "Everything from the colors, appearances and icon order can be configured through the dashboard to best fit your needs."
+    url: "/about/#features"
     btn_class: "btn--primary"
-    btn_label: "Learn more"
+    btn_label: "All Features"
   - image_path: /assets/images/mm-responsive-feature.png
     alt: "fully responsive"
-    title: "Responsive layouts"
-    excerpt: "Built with HTML5 + CSS3. All layouts are fully responsive with helpers to augment your content."
-    url: "/docs/layouts/"
+    title: "Slick Design 😎"
+    excerpt: "Enjoy our recently updated icons with a more modern and smooth look."
+    url: "/assets/images/slick.png"
     btn_class: "btn--primary"
     btn_label: "Learn more"
   - image_path: /assets/images/mm-free-feature.png
-    alt: "100% free"
-    title: "100% free"
-    excerpt: "Free to use however you want under the MIT License. Clone it, fork it, customize it... whatever!"
-    url: "/docs/license/"
+    alt: "free and open source"
+    title: "Free & Open Source 👨‍👩‍👧‍👦💪"
+    excerpt: "iGlance is completely free and open source! If you like what you're seeing, you can support us here:"
+    url: "https://github.com/sponsors/D0miH"
     btn_class: "btn--primary"
-    btn_label: "Learn more"      
+    btn_label: "🧡 Sponsor"      
 ---
 
 {% include feature_row %}
