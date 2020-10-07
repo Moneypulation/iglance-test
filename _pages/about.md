@@ -20,7 +20,7 @@ iGlance is a free and open source macOS System Monitor. It displays current stat
 
 {% include gallery id="layouts_gallery" caption="Example Screenshots of iGlance" %}
 
-[ Download](https://github.com/iglance/iGlance/releases/tag/v2.1.0){: .btn .btn--success .btn--large .fab .fa-github}
+[ Download](https://github.com/iglance/iGlance/releases/download/v2.1.0/iGlance_v2.1.0.zip){: .btn .btn--success .btn--large .fab .fa-github}
 
 ## Features
 
@@ -34,51 +34,11 @@ iGlance is a free and open source macOS System Monitor. It displays current stat
 - App adjusts to light & dark mode
 - System Info (Uptime, CPU, GPU, RAM, Disk, Battery)
 
-## Demo Pages
-
-| Name                                        | Description                                           |
-| ------------------------------------------- | ----------------------------------------------------- |
-| [Post with Header Image][header-image-post] | A post with a large header image. |
-| [HTML Tags and Formatting Post][html-tags-post] | A variety of common markup showing how the theme styles them. |
-| [Syntax Highlighting Post][syntax-post] | Post displaying highlighted code. |
-| [Post with a Gallery][gallery-post] | A post showing several images wrapped in `<figure>` elements. |
-| [Sample Collection Page][sample-collection] | Single page from a collection. |
-| [Categories Archive][categories-archive] | Posts grouped by category. |
-| [Tags Archive][tags-archive] | Posts grouped by tag. |
-
-For even more demo pages check the [posts archive][year-archive].
-
-[header-image-post]: {{ "" | relative_url }}{% post_url 2012-03-15-layout-header-image-text-readability %}
-[gallery-post]: {{ "" | relative_url }}{% post_url 2010-09-09-post-gallery %}
-[html-tags-post]: {{ "" | relative_url }}{% post_url 2013-01-11-markup-html-tags-and-formatting %}
-[syntax-post]: {{ "" | relative_url }}{% post_url 2013-08-16-markup-syntax-highlighting %}
-[sample-collection]: {{ "/recipes/chocolate-chip-cookies/" | relative_url }}
-[categories-archive]: {{ "/categories/" | relative_url }}
-[tags-archive]: {{ "/tags/" | relative_url }}
-[year-archive]: {{ "/year-archive/" | relative_url }}
-
----
-
 ## Credits
 
-### Icons + Demo Images:
-
-- [The Noun Project](https://thenounproject.com) -- Garrett Knoll, Arthur Shlain, and [tracy tam](https://thenounproject.com/tracytam)
-- [Font Awesome](http://fontawesome.io/)
-- [Unsplash](https://unsplash.com/)
-
-### Other:
-
-- [Jekyll](https://jekyllrb.com/)
-- [jQuery](https://jquery.com/)
-- [Susy](http://susy.oddbird.net/)
-- [Breakpoint](http://breakpoint-sass.com/)
-- [Magnific Popup](http://dimsemenov.com/plugins/magnific-popup/)
-- [FitVids.JS](http://fitvidsjs.com/)
-- Greedy Navigation - [lukejacksonn](https://codepen.io/lukejacksonn/pen/PwmwWV)
-- [jQuery Smooth Scroll](https://github.com/kswedberg/jquery-smooth-scroll)
-- [Lunr](http://lunrjs.com)
-
----
-
-Minimal Mistakes is designed, developed, and maintained by Michael Rose. Just another boring, tattooed, designer from Buffalo New York.
+- [beltex](https://github.com/beltex) for providing the [SMCKit](https://github.com/beltex/SMCKit) and SystemKit Library
+- [CocoaLumberjack](https://github.com/CocoaLumberjack/CocoaLumberjack) for their awesome logging framework
+- [Oskar Groth](https://github.com/OskarGroth) for providing his [AppMover](https://github.com/OskarGroth/AppMover) framework
+- [Sindre Sorhus](https://github.com/sindresorhus) for providing his [LaunchAtLogin](https://github.com/sindresorhus/LaunchAtLogin) library
+- [Edward Battistini](https://github.com/edwardbattistini) for providing a new logo and updated assets giving iGlance a new & updated look
+- And of course all the other [contributors](https://github.com/iglance/iGlance/graphs/contributors)
