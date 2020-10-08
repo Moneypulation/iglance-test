@@ -42,3 +42,9 @@ iGlance is a free and open source macOS System Monitor. It displays current stat
 - [Sindre Sorhus](https://github.com/sindresorhus) for providing his [LaunchAtLogin](https://github.com/sindresorhus/LaunchAtLogin) library
 - [Edward Battistini](https://github.com/edwardbattistini) for providing a new logo and updated assets giving iGlance a more modern look
 - And of course all the other [contributors](https://github.com/iglance/iGlance/graphs/contributors)
+
+## License
+
+This software is published under <b>GNU GPLv3</b>.
+
+Permissions of this strong copyleft license are conditioned on making available complete source code of licensed works and modifications, which include larger works using a licensed work, under the same license. Copyright and license notices must be preserved. Contributors provide an express grant of patent rights.
