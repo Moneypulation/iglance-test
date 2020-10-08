@@ -7,6 +7,7 @@ excerpt: "iGlance is a free and open source macOS System Monitor"
 ### v2.1 - 06.10.2020
 #### New Features:
 - Big Sur re-design
+
 #### Bug Fixes:
 - Fixed a bug that would cause the network speed to not have enough space when speed is above 10.00 MB/s
 - Fixed a bug that would not show the app icon in the dock when minimizing the window
