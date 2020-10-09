@@ -18,6 +18,7 @@ excerpt: "iGlance is a free and open source macOS System Monitor"
 ### ▶️ v2.0.9 - 29.06.2020
 ##### New features:
 - Memory information matches now the information in the Activity Monitor app
+
 ##### Bug fixes:
 - Fixed a bug that would cause the app to not start after login
 - Fixed a bug that would cause the app to immediately crash after starting it
@@ -31,6 +32,7 @@ excerpt: "iGlance is a free and open source macOS System Monitor"
 
 - It is now possible to export, import and reset the settings of the app under the app menu File (@Moneypulation)
 - It is now possible to display the used and free disk space in the menu bar (@khorolets)
+
 ##### Bug fixes:
 
 - Fixed a bug that would cause the app to display wrong system information on the dashboard
@@ -58,6 +60,7 @@ This update includes mostly bug-fixes
 
 - It is now possible to export the most recent log file using Diagnostics > Save Logfile... in the app menu
 - It is now possible to open the preferences of the app using iGlance > Preferences in the app menu or by pressing CMD + , while the iGlance window is active
+
 ##### Bug fixes:
 
 - Fixed a bug that would show the wrong available memory in the menu of the memory menu bar item
@@ -112,6 +115,7 @@ This update is very exciting with many quality-of-life improvements and an all n
 - The order of the upload and download network speed can now be changed
 - Upper and lower battery notifications can now be disabled
 - Currently used network interface is now automatically detected
+
 ##### Bug fixes:
 
 - Fixed a bug where slow name resolution in the network caused the app to be not response
